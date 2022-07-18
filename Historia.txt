@@ -2,4 +2,6 @@ Esta es la historia
 
 De alguien que nació en Colombia, ahora viaja por todo el mundo
 
-Hoy hablamos de Git.
+Hoy hablamos de Git
+
+El mundo es pequeñito.
