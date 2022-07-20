@@ -1,6 +1,6 @@
 body {
     color: #333;
-    text-align: left;
+    text-align: center;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 16px;
     margin: 0;
@@ -8,8 +8,8 @@ body {
 }
 
 #cabecera {
-    background: #88f;
-    box-shadow: 0px 2px 20px 0px rgba(0,0,0,0.75);
+    background: rgb(37, 45, 155);
+    box-shadow: 0px 2px 20px 0px rgba(0,0,0,0.5);
     color: white;
     font-weight: bold;
     margin: 0;
@@ -29,7 +29,7 @@ body {
     margin: 0 auto ;
 }
 
-#container hi {
+#container h1 {
     font-size: 20px;
 }
 
